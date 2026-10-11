@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software or its data, please cite it as below."
+title: "riordan-graph-enumerator: exhaustive enumeration of unlabeled Riordan graphs"
+authors:
+  - family-names: "Mesinga Mwafise"
+    given-names: "Arnauld"
+type: software
+license: MIT
+repository-code: "https://github.com/arnauldmwafise/riordan-graph-enumerator"
+keywords:
+  - Riordan graph
+  - Riordan array
+  - graph enumeration
+  - unlabeled graphs
+  - nauty
+version: "1.0.0"
+date-released: "2026-10-11"
+references:
+  - type: article
+    authors:
+      - family-names: Cheon
+        given-names: Gi-Sang
+      - family-names: Jung
+        given-names: Ji-Hwan
+      - family-names: Kitaev
+        given-names: Sergey
+      - family-names: Mojallal
+        given-names: Seyed Ahmad
+    title: "Riordan graphs I: Structural properties"
+    journal: "Linear Algebra and its Applications"
+    volume: 579
+    start: 89
+    end: 135
+    year: 2019

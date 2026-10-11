@@ -1,0 +1,1 @@
+n=20 samples=400 | R0: alone 0, rev-pair 0, other 0, aborted 0 | R1: alone 0, rev-pair 395, other 2, aborted 3 | max class 4 | mean nodes 1359792

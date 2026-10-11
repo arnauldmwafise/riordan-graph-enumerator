@@ -1,0 +1,22 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  build-and-test:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build (Linux)
+        if: runner.os == 'Linux'
+        run: make -j4
+      - name: Build (macOS)
+        if: runner.os == 'macOS'
+        run: make -j4 CXX=clang++ CC=clang
+      - name: Self-tests
+        run: make check
+      - name: u(11) by methods A and B
+        run: |
+          test "$(build/rgcount 11 --threads 2 | awk '{print $3}')" = 158351
+          test "$(build/tree_count 11 --threads 2 | awk '{print $3}')" = 158351

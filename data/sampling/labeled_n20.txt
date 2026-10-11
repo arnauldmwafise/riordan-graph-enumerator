@@ -1,0 +1,13 @@
+# rgsample n=20 model=labeled seed=1: 5000 samples accepted out of 5000 draws (rate 1.0000)
+#   edges                  mean    70.6956   sd   32.4803   min        7   max      152   (5000 values)
+#   minimum degree         mean     3.7884   sd    3.1907   min        0   max       13   (5000 values)
+#   maximum degree         mean    12.1552   sd    2.2145   min        4   max       19   (5000 values)
+#   triangles              mean    93.9360   sd   92.7900   min        0   max      574   (5000 values)
+#   components             mean     1.4552   sd    1.1902   min        1   max       13   (5000 values)
+#   diameter (connected)   mean     2.7316   sd    0.8508   min        2   max        7   (4016 values)
+#   Wiener index (conn.)   mean   313.9016   sd   49.1002   min      228   max      657   (4016 values)
+#   connected fraction     0.8032
+#   pattern K4         contained as subgraph 0.7112, as induced subgraph 0.7112
+#   pattern C4         contained as subgraph 0.9974, as induced subgraph 0.9882
+#   pattern claw       contained as subgraph 1.0000, as induced subgraph 1.0000
+#   pattern cochair    contained as subgraph 0.9588, as induced subgraph 0.9576

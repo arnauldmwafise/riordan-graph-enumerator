@@ -1,0 +1,34 @@
+n=1 graphs=1 diam: 0:1 wiener:[0,0] alpha: 1:1
+n=2 graphs=1 diam: 1:1 wiener:[1,1] alpha: 1:1
+n=3 graphs=1 diam: 1:1 wiener:[3,3] alpha: 1:1
+n=4 graphs=2 diam: 2:2 wiener:[7,8] alpha: 2:2
+n=5 graphs=2 diam: 2:2 wiener:[11,12] alpha: 2:2
+n=6 graphs=4 diam: 2:4 wiener:[19,20] alpha: 3:4
+n=7 graphs=4 diam: 2:4 wiener:[27,30] alpha: 3:4
+n=8 graphs=8 diam: 2:6 3:2 wiener:[37,47] alpha: 4:8
+n=9 graphs=8 diam: 2:8 wiener:[45,51] alpha: 4:8
+n=10 graphs=16 diam: 2:16 wiener:[61,65] alpha: 5:16
+n=11 graphs=16 diam: 2:16 wiener:[76,82] alpha: 5:16
+n=12 graphs=32 diam: 2:25 3:7 wiener:[94,105] alpha: 6:32
+n=13 graphs=32 diam: 2:25 3:7 wiener:[111,125] alpha: 6:32
+n=14 graphs=64 diam: 2:40 3:24 wiener:[131,155] alpha: 7:64
+n=15 graphs=64 diam: 2:34 3:30 wiener:[153,189] alpha: 7:64
+n=16 graphs=128 diam: 2:61 3:66 4:1 wiener:[175,238] alpha: 8:128
+n=17 graphs=128 diam: 2:128 wiener:[191,216] alpha: 8:128
+n=18 graphs=256 diam: 2:256 wiener:[223,242] alpha: 9:256
+n=19 graphs=256 diam: 2:256 wiener:[254,270] alpha: 9:256
+n=20 graphs=512 diam: 2:416 3:96 wiener:[285,319] alpha: 10:512
+n=21 graphs=512 diam: 2:426 3:86 wiener:[315,343] alpha: 10:512
+n=22 graphs=1024 diam: 2:676 3:348 wiener:[349,395] alpha: 11:1024
+n=23 graphs=1024 diam: 2:589 3:435 wiener:[386,434] alpha: 11:1024
+n=24 graphs=2048 diam: 2:1070 3:977 4:1 wiener:[424,491] alpha: 12:2048
+n=25 graphs=2048 diam: 2:1134 3:914 wiener:[456,530] alpha: 12:2048
+n=26 graphs=4096 diam: 2:2148 3:1948 wiener:[501,584] alpha: 13:4096
+n=27 graphs=4096 diam: 2:1900 3:2196 wiener:[541,643] alpha: 13:4096
+n=28 graphs=8192 diam: 2:3525 3:4666 4:1 wiener:[585,722] alpha: 14:8192
+n=29 graphs=8192 diam: 2:3414 3:4777 4:1 wiener:[629,790] alpha: 14:8192
+n=30 graphs=16384 diam: 2:6414 3:9968 4:2 wiener:[675,879] alpha: 15:16384
+n=31 graphs=16384 diam: 2:5800 3:10456 4:128 wiener:[725,977] alpha: 15:16384
+n=32 graphs=32768 diam: 2:10881 3:21748 4:138 5:1 wiener:[776,1106] alpha: 16:32768
+n=33 graphs=32768 diam: 2:32768 wiener:[808,903] alpha: 16:32768
+n=34 graphs=65536 diam: 2:65536 wiener:[864,953] alpha: 17:65536

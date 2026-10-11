@@ -1,0 +1,13 @@
+# rgsample n=14 model=labeled seed=1: 1000 samples accepted out of 1000 draws (rate 1.0000)
+#   edges                  mean    36.4510   sd   16.0040   min        6   max       78   (1000 values)
+#   minimum degree         mean     2.8150   sd    2.2817   min        0   max       10   (1000 values)
+#   maximum degree         mean     8.6230   sd    1.7607   min        4   max       13   (1000 values)
+#   triangles              mean    35.3430   sd   35.3100   min        0   max      227   (1000 values)
+#   components             mean     1.4890   sd    1.1512   min        1   max        9   (1000 values)
+#   diameter (connected)   mean     2.7248   sd    0.8410   min        2   max        6   (785 values)
+#   Wiener index (conn.)   mean   147.7554   sd   24.5275   min      104   max      257   (785 values)
+#   class size |C(H)|      mean   131.8330   sd  693.8147   min        1   max     8190   (1000 values)
+#   connected fraction     0.7850
+#   fraction with C(H) = {H, rev H}: 0.5060 (of 1000 complete class computations)
+#   estimate of u(n)/L(n) = mean 1/|C(H)| = 0.52290, 95% interval [0.50417, 0.54163]
+#   estimate of u(14) = 1.16971e+07, 95% interval [1.12781e+07, 1.21161e+07]

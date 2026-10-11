@@ -1,0 +1,7 @@
+build/
+*.o
+*.tmp
+data/runs/*.err.tmp
+__pycache__/
+.DS_Store
+docs/html/

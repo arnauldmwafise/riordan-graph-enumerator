@@ -1,0 +1,9 @@
+# rgsample n=30 model=labeled seed=1: 300 samples accepted out of 2049 draws (rate 0.1464)
+#   edges                  mean    61.9800   sd   16.6789   min       27   max      117   (300 values)
+#   minimum degree         mean     0.4000   sd    0.6335   min        0   max        3   (300 values)
+#   maximum degree         mean    15.3900   sd    2.1165   min        9   max       22   (300 values)
+#   triangles              mean    15.7800   sd   10.0016   min        1   max       71   (300 values)
+#   components             mean     2.6567   sd    1.8394   min        1   max       11   (300 values)
+#   diameter (connected)   mean     4.0202   sd    0.3774   min        3   max        5   (99 values)
+#   Wiener index (conn.)   mean   913.9293   sd   57.9078   min      777   max     1105   (99 values)
+#   connected fraction     0.3300

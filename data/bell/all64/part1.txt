@@ -1,0 +1,2 @@
+n=64 graphs=67108864 diam: 2:15933708 3:51172228 4:2928 wiener:[3278,4398]
+  graphs with diam = log2 n = 6: 0

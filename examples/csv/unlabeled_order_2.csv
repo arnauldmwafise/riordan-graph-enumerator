@@ -1,0 +1,3 @@
+k,n,g,f,edges,graph6,degree_sequence,riordan_labelings,complement_riordan,self_complementary
+1,2,0,0,,A?,0 0,1,1,0
+2,2,1,0,12,A_,1 1,1,1,0

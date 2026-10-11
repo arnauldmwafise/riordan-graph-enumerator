@@ -1,0 +1,7 @@
+k,n,g,f,edges,graph6,degree_sequence,complement_riordan_same_labeling
+1,3,0,0,,B?,0 0 0,1
+2,3,1,0,12,B_,1 1 0,0
+3,3,1 + t,0,12 13,Bo,2 1 1,0
+4,3,1,t,12 23,Bg,2 1 1,1
+5,3,1 + t,t,12 13 23,Bw,2 2 2,1
+6,3,t,0,13,BO,1 1 0,1
