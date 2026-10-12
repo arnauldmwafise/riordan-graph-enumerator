@@ -425,7 +425,7 @@ rglist N --show G F [--format ...] [--svg DIR]
 | `--filter selfcomplementary` | only self-complementary graphs (unlabeled mode) |
 | `--filter connected` | only connected graphs |
 | `--format` | `text` (default), `markdown`, `csv` (one row per graph), `json` |
-| `--svg DIR` | one SVG drawing per graph, vertices placed clockwise in Riordan order |
+| `--svg DIR` | one SVG drawing per graph, vertices placed clockwise in Riordan labelling |
 | `--count` | print only the number of graphs listed |
 | `--show G F` | a single graph `G_n(g, f)`; polynomials are written like `"1+t+t^3"` |
 
