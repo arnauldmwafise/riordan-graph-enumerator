@@ -400,7 +400,7 @@ macOS: `make CXX=clang++ CC=clang`. Other compilers: `make CXX=... CC=...`. Opti
 build/rglist 4                          # the 11 unlabeled Riordan graphs of order 4
 build/rglist 4 --labeled                # the 22 labeled Riordan graphs of order 4
 build/rglist 5 --show "1+t^2" t         # one graph G_5(1+t^2, t) with its matrices
-build/rglist 6 --format markdown --svg out > order6.md   # browsable listing with drawings
+build/rglist 6 --format markdown --svg out > order6.md   # browsable listing with graph diagrams
 build/rgcount 12 --threads 4            # u(12): prints "12 1398102 671656  (... s)"
 build/tree_count 12 --threads 4         # the same value by the independent method B
 build/geng -q 8 | build/recognize_all   # method C: "8 12346 1864 10482"
