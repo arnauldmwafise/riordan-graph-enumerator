@@ -628,14 +628,14 @@ riordan-graph-enumerator/
 │   ├── labelings.hpp          all Riordan labelings of an unlabeled graph (exact search) → class C(G)
 │   ├── properties.hpp         invariants (edges, components, triangles, diameter, Wiener index);
 │   │                          subgraph / induced-subgraph search; named patterns
-│   └── io.hpp                 polynomials ↔ text, Riordan matrix, edge lists, graph6, SVG drawings
+│   └── io.hpp                 polynomials ↔ text, Riordan matrix, edge lists, graph6, SVG diagrams
 ├── tools/
 │   ├── rgcount.cpp            method A: u(n) by enumeration + canonical fingerprints
 │   ├── rglist.cpp             listing tool
 │   └── rgsample.cpp           sampling tool
 ├── verify/
 │   ├── tree_count.cpp         method B: u(n) by an independent generator
-│   └── recognize_all.cpp      method C: decides for every graph (from geng) whether it is Riordan
+│   └── recognize_all.cpp      method C: decides for every graph (from geng) whether it is Riordan graph
 ├── analysis/                  complement_labeled, complement_unlabeled, structure, labelstats,
 │                              labelstats2, bell (see docs/COMPUTATIONS.md §4)
 ├── tests/                     quick_check.cpp, recognize_test.cpp, small_counts.sh, rglist_test.sh,
@@ -646,7 +646,7 @@ riordan-graph-enumerator/
 ├── data/
 │   ├── counts.csv             u(n) by methods A and B, n ≤ 17
 │   ├── runs/                  logs and checkpoints of every counting run
-│   ├── lists/                 graph6 lists from method C (Riordan, non-Riordan, minimal), n ≤ 10
+│   ├── lists/                 graph6 lists from method C (Riordan graph, non-Riordan graph, minimal), n ≤ 10
 │   ├── sampling/              sampler showcase and validation runs
 │   ├── rigidity/              class-size samples for f'(0) = 1, n = 18..28
 │   └── bell/                  io-decomposable Bell-type graphs (diameters, Wiener index)
