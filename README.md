@@ -255,9 +255,9 @@ of the chair and of `K₁,₃ ∪ K₁`. All 30 Riordan graphs are listed in
 
 ### 4.3 Complements
 
-Taking complements does not preserve the Riordan property. Three situations occur.
+Taking complements does not preserve the Riordan graph property. Three situations occur.
 
-**(a) The complement is Riordan with the same labeling.** For graphs of Appell type `G_n(g, t)`, the
+**(a) The complement is a Riordan graph with the same labeling.** For graphs of Appell type `G_n(g, t)`, the
 complement is `G_n(g + 1/(1−t), t)` (Cheon et al., §2.6).
 
 <table>
@@ -278,7 +278,7 @@ edges: 13 15 24 35
 </td></tr>
 </table>
 
-**(b) The complement is Riordan only after relabeling.** The claw `K₁,₃ = G₄(1 + t + t², 0)` has
+**(b) The complement is a Riordan graph only after relabeling.** The claw `K₁,₃ = G₄(1 + t + t², 0)` has
 complement `K₃ ∪ K₁` on the same vertices, with edges 23 24 34. In that labeling vertex 1 is isolated,
 which forces `g = 0`, so it is not a labeled Riordan graph. Renumbering `2→1, 3→2, 1→3, 4→4` gives
 `G₄(1 + t², t²)`:
@@ -295,7 +295,7 @@ K3∪K1:  B = 1 / 0 0 / 1 1 0         (g = 1 + t², f = t²)
 </td></tr>
 </table>
 
-**(c) The complement is not Riordan.** The star `K₁,₄ = G₅(1 + t + t² + t³, 0)` is Riordan, but its
+**(c) The complement is not a Riordan graph.** The star `K₁,₄ = G₅(1 + t + t² + t³, 0)` is a Riordan graph, but its
 complement `K₄ ∪ K₁` is not (Cheon et al., Prop. 2.13).
 
 <img src="docs/figures/K14.svg" width="170">
@@ -317,7 +317,7 @@ A graph is self-complementary if it is isomorphic to its complement. Among Riord
 P4:          B = 1 / 0 1 / 0 0 1          edges 12 23 34
 complement:  B = 0 / 1 0 / 1 1 0          edges 13 14 24  (the path 3-1-4-2)
 ```
-The complement is Riordan in the same labeling.
+The complement is a Riordan graph in the same labeling.
 </td></tr>
 <tr><td align="center"><img src="docs/figures/bull.svg" width="170"><br>bull = G₅(1, t + t²)</td>
 <td></td>
@@ -338,7 +338,7 @@ turns it into G5(1, t + t²) again.
 C5:          B = 0 / 1 0 / 1 1 0 / 0 1 1 0    edges 13 14 24 25 35
 complement:  B = 1 / 0 1 / 0 0 1 / 1 0 0 1    edges 12 15 23 34 45
 ```
-Both are 5-cycles, and both labelings are Riordan.
+Both are 5-cycles, and both labelings are Riordan graphs.
 </td></tr>
 </table>
 
