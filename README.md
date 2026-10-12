@@ -439,7 +439,7 @@ Example (`build/rglist 4`, the 8th of the 11 entries):
     edges (4): 12 23 24 34
     degree sequence: 3 2 2 1
     graph6: Cj
-    labeled Riordan graphs in this class: 3;  complement Riordan: yes
+    labeled Riordan graphs in this class: 3;  complement Riordan graph: yes
     Riordan matrix B (rows i = 0..2)      adjacency lower triangle (rows 2..4)
     1              2: 1
     0 1            3: 0 1
