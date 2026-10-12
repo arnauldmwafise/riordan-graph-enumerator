@@ -490,7 +490,7 @@ accepted with the same probability `1/L(n)`, and the acceptance rate itself esti
 
 The filters are isomorphism-invariant, so the samples are uniform on the restricted set in every
 model. Each sample is drawn by rejection, and the summary reports the acceptance rate. A rare
-structure therefore needs many draws.
+structure therefore needs many sampling attempts.
 
 **Output.**
 
