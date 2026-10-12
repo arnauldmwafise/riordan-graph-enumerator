@@ -348,7 +348,7 @@ Listings for `n = 4, 5, 8, 9, 12`: [examples/self_complementary/](examples/self_
 
 | folder | content |
 |---|---|
-| [examples/unlabeled/](examples/unlabeled/) | every unlabeled Riordan graph of order 1–6 (1, 2, 4, 11, 30, 109 graphs) with drawing, `(g, f)`, `B`, edge list, graph6, class size |
+| [examples/unlabeled/](examples/unlabeled/) | every unlabeled Riordan graph of order 1–6 (1, 2, 4, 11, 30, 109 graphs) with graph diagram, `(g, f)`, `B`, edge list, graph6, class size |
 | [examples/labeled/](examples/labeled/) | every labeled Riordan graph of order 2–4 (2, 6, 22 graphs) |
 | [examples/complement/](examples/complement/) | Riordan graphs whose complement is Riordan, orders 4–6, labeled and unlabeled |
 | [examples/self_complementary/](examples/self_complementary/) | self-complementary Riordan graphs, orders 4, 5, 8, 9, 12 |
