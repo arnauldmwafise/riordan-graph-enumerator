@@ -141,11 +141,11 @@ See [§10](#10-verification-strategy). Machine-readable: [`data/counts.csv`](dat
 
 | n | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| graphs that are **not** Riordan | 0 | 0 | 0 | 0 | 4 | 47 | 638 | 10482 | 266499 | 11968271 |
+| graphs that are **not** Riordan graphs | 0 | 0 | 0 | 0 | 4 | 47 | 638 | 10482 | 266499 | 11968271 |
 | minimal non-Riordan graphs | 0 | 0 | 0 | 0 | 4 | 17 | 111 | 123 | 232 | 303 |
 | connected Riordan graphs | 1 | 1 | 2 | 6 | 19 | 78 | 316 | 1502 | 6969 | 32382 |
 | labeled: complement also labeled Riordan | 1 | 2 | 4 | 12 | 28 | 92 | 220 | 732 | 1756 | 5852 |
-| unlabeled: complement also Riordan | 1 | 2 | 4 | 11 | 26 | 90 | 230 | 707 | 1591 | 3804 |
+| unlabeled: complement also a Riordan graph | 1 | 2 | 4 | 11 | 26 | 90 | 230 | 707 | 1591 | 3804 |
 | self-complementary Riordan graphs | 1 | 0 | 0 | 1 | 2 | 0 | 0 | 1 | 1 | 0 |
 
 The complement counts are extended to `n = 14` in [docs/COMPUTATIONS.md](docs/COMPUTATIONS.md),
