@@ -98,11 +98,11 @@ list it as an open problem.
   at `n = 13` the largest class contains 4650 labeled Riordan graphs. So `u(n)` is not simply
   `L(n)` divided by a constant.
 * *No forbidden-subgraph description.* The class is not closed under taking induced subgraphs. For
-  example, `G_6(1+t, t²+t³)` is Riordan, but deleting its vertex 4 leaves `C₄ ∪ K₁`, which is not.
+  example, `G_6(1+t, t²+t³)` is a Riordan array, but deleting its vertex 4 leaves `C₄ ∪ K₁`, which is not.
   Methods for counting hereditary classes therefore do not apply.
 * *Scale.* `L(n)` grows like `4ⁿ`. Computing `u(17)` meant reducing 1.43·10⁹ labeled graphs to
   canonical form and storing about 7.9·10⁸ distinct isomorphism classes. Deciding whether a *single*
-  unlabeled graph is Riordan currently needs a search over vertex orderings. The complexity of this
+  unlabeled graph is associated to a binary Riordan matrix currently needs a search over vertex orderings. The complexity of this
   recognition problem is itself open (Problem 4 of Cheon et al.).
 
 **What this repository provides.** Exact values of `u(n)` for `n ≤ 17`, each confirmed
