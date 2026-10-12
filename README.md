@@ -82,8 +82,8 @@ Familiar examples include the path `G_n(1, t)`, the complete graph `G_n(1/(1−t
 
 **Labeled versus unlabeled.** In graph enumeration, counting labeled objects is almost always much
 easier than counting unlabeled ones. Riordan graphs are an extreme case. Each labeled Riordan graph is
-a pair of truncated power series, so `L(n)` has the clean closed form above. But the number of
-*isomorphism classes*, `u(n)`, was unknown beyond `n = 4`, where every graph is Riordan. Cheon et al.
+a pair of truncated power series, so `L(n)` has the explicit closed form above. But the number of
+*isomorphism classes*, `u(n)`, was unknown beyond `n = 4`, where every graph is associated with a binary Riordan matrix. Cheon et al.
 list it as an open problem.
 
 **Why the usual tools do not apply.**
