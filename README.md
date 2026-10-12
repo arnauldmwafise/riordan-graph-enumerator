@@ -78,7 +78,7 @@ L(n) = (4ⁿ⁻¹ + 2) / 3  =  1, 2, 6, 22, 86, 342, 1366, …        (Cheon et 
 Familiar examples include the path `G_n(1, t)`, the complete graph `G_n(1/(1−t), t)`, the Pascal graph
 `G_n(1/(1−t), t/(1−t))` and the Catalan graph `G_n(C, tC)` with `C` the Catalan series.
 
-## 2. Motivation: why counting unlabeled Riordan graphs is hard
+## 2. Motivation: why counting unlabeled Riordan graphs is nontrivial
 
 **Labeled versus unlabeled.** In graph enumeration, counting labeled objects is almost always much
 easier than counting unlabeled ones. Riordan graphs are an extreme case. Each labeled Riordan graph is
