@@ -9,7 +9,7 @@ confirmed by two independently written programs, and for `n ≤ 10` by a third m
 graph on `n` vertices. Two further tools make the graphs themselves accessible:
 
 * **`rglist`** lists every labeled or unlabeled Riordan graph of a given order, with its generating
-  functions, Riordan matrix, adjacency matrix and drawing.
+  functions, Riordan matrix, adjacency matrix and graph visualization.
 * **`rgsample`** draws random Riordan graphs of any order up to 64: uniformly over labeled graphs,
   exactly uniformly over unlabeled graphs, or conditioned on subgraph structure. It reports their
   invariants and estimates `u(n)` beyond the exhaustive range.
