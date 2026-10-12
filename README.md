@@ -610,7 +610,7 @@ producing the same wrong set of `L(n)` graphs.
 | this README | background, motivation, results, worked examples, installation, tool usage |
 | [docs/COMPUTATIONS.md](docs/COMPUTATIONS.md) | how every number was computed: methods A/B/C, results with timings, further sequences, sampler validation, cross-checks |
 | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | code organisation: conventions, library API (every header), executables with their inputs and outputs, data flow, tests |
-| [examples/README.md](examples/README.md) | index of the generated listings (graphs, matrices, drawings, CSV) |
+| [examples/README.md](examples/README.md) | index of the generated listings (graphs, matrices, diagrams, CSV) |
 | [data/rigidity/README.md](data/rigidity/README.md) | provenance and format of the class-size samples |
 | source files | every file starts with a documentation header (purpose, method, usage, inputs, outputs, cost); every function has a Doxygen comment |
 | `Doxyfile` | optional HTML API reference: `doxygen Doxyfile` writes `docs/html/` (needs Doxygen) |
