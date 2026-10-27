@@ -7,6 +7,11 @@ authors:
 type: software
 license: MIT
 repository-code: "https://github.com/arnauldmwafise/riordan-graph-enumerator"
+doi: "10.5281/zenodo.23676628"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23676628"
+    description: "Concept DOI (all versions)"
 keywords:
   - Riordan graph
   - Riordan array
