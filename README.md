@@ -1,4 +1,5 @@
 # riordan-graph-enumerator
+ DOI 10.5281/zenodo.23676628
 
 [![CI](https://github.com/arnauldmwafise/riordan-graph-enumerator/actions/workflows/ci.yml/badge.svg)](https://github.com/arnauldmwafise/riordan-graph-enumerator/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
