@@ -24,6 +24,8 @@ The enumeration of unlabeled Riordan graphs is posed as an open problem (Problem
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **u(n)** | 1 | 2 | 4 | 11 | 30 | 109 | 406 | 1864 | 8169 | 36897 | 158351 | 671656 | 2657424 | 11481042 | 46683483 | 190658218 | 789399022 |
 
+This sequence is [A401493](https://oeis.org/A401493) in the OEIS. The complement counts below are
+[A401495](https://oeis.org/A401495) (unlabeled) and [A401496](https://oeis.org/A401496) (labeled).
 ---
 
 ## Contents
