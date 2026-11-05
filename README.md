@@ -662,6 +662,7 @@ riordan-graph-enumerator/
 ## 13. Citing, license, acknowledgements
 
 If you use this software or data, please cite it through its Zenodo concept DOI 10.5281/zenodo.23676628, which always resolves to the latest version; full citation metadata is in CITATION.cff, and GitHub’s “Cite this repository” button gives it in APA and BibTeX form. Please also cite reference 1 below, which introduced Riordan graphs.
+The counts are in the OEIS as [A401493](https://oeis.org/A401493) (unlabeled Riordan graphs), [A401495](https://oeis.org/A401495) (unlabeled, complement also Riordan) and [A401496](https://oeis.org/A401496) (labeled, complement also labeled Riordan).
 
 **Author:** Arnauld Mesinga Mwafise.
 **License:** MIT ([LICENSE](LICENSE)). nauty is distributed under the Apache License 2.0
