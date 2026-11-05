@@ -43,6 +43,7 @@ the other hash function. With fewer than 10⁹ classes per order, the probabilit
 collision is negligible.
 
 ### Results
+u(n) is OEIS [A401493](https://oeis.org/A401493).
 
 | n | L(n) | u(n) | A | B | C |
 |---:|---:|---:|:-:|:-:|:-:|
