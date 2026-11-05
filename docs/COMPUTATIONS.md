@@ -137,6 +137,7 @@ example is G₆(1+t, t²+t³), with edges 12 13 24 26 36: deleting vertex 4 leav
 G₆(1, t+t²), with edges 12 23 24 34 36 45 46 56: deleting vertex 5 leaves the complement of the chair.
 
 ### 4.2 Complements
+c(n) is OEIS [A401496](https://oeis.org/A401496) and u_c(n) is OEIS [A401495](https://oeis.org/A401495). The labeled counts c(n) fit c(n) = 8·c(n−2) − 4 for 3 ≤ n ≤ 14, equivalently c(n+1) − c(n) = 2^⌊3(n−1)/2⌋ (conjectured; see A401496).
 
 | n | labeled: G and its complement both labeled Riordan, c(n) | unlabeled: complement also Riordan, u_c(n) | self-complementary Riordan graphs |
 |---:|---:|---:|---:|
