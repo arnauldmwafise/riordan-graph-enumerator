@@ -4,6 +4,7 @@ title: "riordan-graph-enumerator: exhaustive enumeration of unlabeled Riordan gr
 authors:
   - family-names: "Mesinga Mwafise"
     given-names: "Arnauld"
+    affiliation: "Independent Researcher"
 type: software
 license: MIT
 repository-code: "https://github.com/arnauldmwafise/riordan-graph-enumerator"
@@ -25,21 +26,22 @@ date-released: "2026-11-05"
 references:
   - type: article
     authors:
-      - family-names: Cheon
-        given-names: Gi-Sang
-      - family-names: Jung
-        given-names: Ji-Hwan
-      - family-names: Kitaev
-        given-names: Sergey
-      - family-names: Mojallal
-        given-names: Seyed Ahmad
+      - family-names: "Cheon"
+        given-names: "Gi-Sang"
+      - family-names: "Jung"
+        given-names: "Ji-Hwan"
+      - family-names: "Kitaev"
+        given-names: "Sergey"
+      - family-names: "Mojallal"
+        given-names: "Seyed Ahmad"
     title: "Riordan graphs I: Structural properties"
     journal: "Linear Algebra and its Applications"
     volume: 579
     start: 89
     end: 135
     year: 2019
- - type: database
+    doi: "10.1016/j.laa.2019.05.033"
+  - type: database
     title: "A401493: Number of unlabeled Riordan graphs on n vertices"
     authors:
       - name: "The OEIS Foundation Inc."
